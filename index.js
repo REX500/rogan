@@ -25,7 +25,7 @@ const getQuote = async () => {
       break;
     case 7:
       quote = 'If I got a hold of your tie, I would choke the shit out of you!';
-      breakl
+      break;
     case 8:
       quote = '___ is no joke!';
       break;
