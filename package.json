@@ -1,18 +1,18 @@
 {
-"name": "rogan",
-"version": "1.0.0",
-"description": "Returns random Joe Rogan quotes",
-"license": "MIT",
-"repository": "REX500/rogan",
-"main": "index.js",
-"keywords": [
-  "Rogan",
-  "npm",
-  "package",
-  "Joe Rogan",
-  "UFC",
-  "MMA",
-  "JRE",
-  "Marijuana"
- ]
+  "name": "rogan",
+  "version": "2.0.0",
+  "description": "Returns random Joe Rogan quotes",
+  "license": "MIT",
+  "repository": "REX500/rogan",
+  "main": "index.js",
+  "keywords": [
+    "Rogan",
+    "npm",
+    "package",
+    "Joe Rogan",
+    "UFC",
+    "MMA",
+    "JRE",
+    "Marijuana"
+  ]
 }
