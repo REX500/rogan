@@ -1,10 +1,14 @@
 # rogan
 
-[![npm (scoped)]
-(https://img.shields.io/badge/npm-v2.0.0-blue.svg)]
-(https://github.com/REX500/rogan)
-[![npm bundle size (minified)]
-(https://img.shields.io/bundlephobia/min/react.svg)]
-(https://github.com/REX500/rogan)
-
 Rogan npm package that returns random Joe Rogan quotes.
+
+# How to use?
+
+* first run the npm install command  
+`npm i --save rogan`
+* require the package  
+`const rogan = require('rogan');`
+* run the getQuote() function that will return a quote  
+`rogan.getQuote()`
+
+### Enjoy, share with others and have fun!
