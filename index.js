@@ -31,7 +31,7 @@ const getQuote = async () => {
       break;
     case 9:
       quote = 'Im high as fuck right now.';
-      breal;
+      break;
     default:
       break;
   }
