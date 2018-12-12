@@ -27,12 +27,8 @@ const getQuote = async () => {
   ];
 
 
-  // const random = Math.floor(Math.random() * 20) + 1;
   return quotes[Math.floor(Math.random() * quotes.length)];
 };
-
-getQuote();
-// getQuote().then((result) => console.log(result));
 
 module.exports = {
   getQuote
