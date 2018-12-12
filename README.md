@@ -1,5 +1,5 @@
 # rogan
-[![npm (scoped)](https://img.shields.io/badge/npm-v3.3.0-<COLOR>.svg)](https://www.npmjs.com/package/rogan)
+[![npm (scoped)](https://img.shields.io/badge/npm-v3.3.1-<COLOR>.svg)](https://www.npmjs.com/package/rogan)
 [![npm (scoped)](https://img.shields.io/badge/node->8.0.-blue.svg)](https://www.nodejs.org)
 
 
