@@ -1,6 +1,6 @@
 'use strict';
 
-const getQuote = async () => {
+const getQuote = () => {
   const quotes = [
     'You should start a podcast!',
     'Thats cool man... Have you ever done DMT?',
